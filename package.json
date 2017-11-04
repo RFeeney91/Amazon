@@ -1,0 +1,18 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "server app",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "amazon"
+  ],
+  "author": "ryan_feeney",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.11.1",
+    "inquirer": "^1.0.2"
+  }
+}
